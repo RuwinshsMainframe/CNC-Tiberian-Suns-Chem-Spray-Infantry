@@ -8,10 +8,11 @@
 2. Extract the files from the .zip archive and copy its contents.
 3. Find your Tiberian Sun game folder and copy the files.  
 
-   If you're using the Steam version, you can find Tiberian Sun in your Steam library, right-click its name, then go to Properties -> Installed Files -> Browse.  
+   If you're using the Steam version, you can find Tiberian Sun in your Steam library, right-click its name, then go to Properties -> Installed Files -> Browse.
+   <br>
    If you're using the free version of Tiberian Sun, it is probably located in your C: drive under the Westwood -> SUN folder.
 
-4. Boot up the game.
+5. Boot up the game.
 
 ## Explanations
 
