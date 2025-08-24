@@ -5,8 +5,8 @@
 ## Instructions
 
 1. Download this repository.
-2. Extract the files from the .zip archive and copy its contents.
-3. Find your Tiberian Sun game folder and copy the files.  
+2. Extract the contents from the .zip file and copy its contents.
+3. Find your Tiberian Sun game folder and paste the copied files into it.  
 
    If you're using the Steam version, you can find Tiberian Sun in your Steam library, right-click its name, then go to Properties -> Installed Files -> Browse.  
    <br>
